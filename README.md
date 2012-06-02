@@ -4,7 +4,7 @@ Garmin waypoint XML file.
 
 # Usage
 Just call the script with one or multiple OpenLayers POI files as arguments.
-The result will be stored as openLayersPOIs.gpx.
+The result will be stored as *openLayersPOIs.gpx*.
 
 # License
 [GPL v3](http://www.gnu.org/licenses/gpl.html)
